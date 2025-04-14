@@ -106,15 +106,3 @@ Here are some future upgrades that can take this project even further:
 - 🛡️ Anomaly detection & adversarial sample handling  
 
 ---
-
-## 📬 Contact
-
-Made with ❤️ by [Your Name]  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
